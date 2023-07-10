@@ -4,8 +4,8 @@
     margin: 0px;
     padding: 0px;
 }
-.main{
-}
+
+.main {}
 
 .banner {
     padding: 50px 150px 0px 150px;
@@ -52,7 +52,7 @@
 
 
 /* feature section  */
-.feature-head{
+.feature-head {
     padding: 80px 430px 5px;
     width: auto;
 }
@@ -93,7 +93,8 @@
     height: 300px;
     width: 280px;
 }
-.flower01 img{
+
+.flower01 img {
     height: 240px;
     width: 190px;
     padding: 60px 5px 0px 0px;
@@ -110,7 +111,8 @@
     height: 300px;
     width: 280px;
 }
-.flower02 img{
+
+.flower02 img {
     height: 210px;
     width: 200px;
     padding: 60px 0px 30px 25px;
@@ -127,11 +129,63 @@
     height: 300px;
     width: 280px;
 }
-.flower03 img{
+
+.flower03 img {
     height: 250px;
     width: 150px;
     padding: 50px 0px 0px 0px;
 }
-.flower-title{
+
+.flower-title {
     margin-top: 20px;
+}
+
+/* Hot Deals  */
+.hot {
+    background-color: #fef6f8;
+    text-align: center;
+    padding: 80px 250px 0px 250px;
+    display: flex;
+    gap: 150px;
+    align-items: center;
+}
+.hot-content{
+    max-width: 500px;
+}
+
+.hot-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.hot-detail {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.off {
+    color: #e55473;
+}
+.sign{
+    padding: 10px 20px;
+}
+.hot-img{
+    height: 250px;
+    width: 200px;
+    /* padding-bottom: 60px; */
+    margin-bottom: 60px;
+}
+
+/* Instagra */
+.instagram{
+    padding: 50px 150px;
+}
+.insta-content{
+    padding: 25px 290px;
+    width: auto;
 }
