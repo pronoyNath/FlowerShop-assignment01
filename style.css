@@ -1,0 +1,47 @@
+* {
+    font-family: 'Chivo Mono', monospace;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner {
+    padding: 50px 150px 0px 150px;
+    background-color: #fceef1;
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.banner-content{
+    max-width: 500px;
+}
+.banner-title {
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.banner-detail {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 15px;
+
+}
+
+.btn-pink {
+    border-radius: 5px;
+    background-color: #E55473;
+    padding: 10px 15px;
+    border: 0px;
+    font-size: 12px;
+    font-weight: 200;
+    color: #fff;
+}
+
+.banner .banner-img {
+    width: 400px;
+    height: 500px;
+}
