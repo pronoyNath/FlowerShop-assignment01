@@ -183,9 +183,47 @@
 
 /* Instagra */
 .instagram{
-    padding: 50px 150px;
+    padding: 50px 150px 0px 150px;
 }
 .insta-content{
     padding: 25px 290px;
     width: auto;
+}
+
+.insta-pics{
+    display: flex;
+    gap: 20px;
+}
+.insta-pics img{
+    height: 300px;
+    width: 250px;
+}
+
+.instapic01{
+    height: 400px;
+    width: 400px;
+}
+
+/* get the latest deals  */
+.deals{
+    padding: 50px 150px;
+}
+.deal-content{
+    background-image: url('images/Rectangle 9.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 100px 100px;
+}
+.search{
+    text-align: center;
+}
+.search input{
+    padding: 15px;
+    width: 500px;
+    /* border: 0px; */
+    border-radius: 5px;
+}
+.subs{
+    padding: 19px 25px 16px 25px;
+    margin-left: 5px;
 }
