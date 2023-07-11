@@ -5,8 +5,6 @@
     padding: 0px;
 }
 
-.main {}
-
 .banner {
     padding: 50px 150px 0px 150px;
     background-color: #fceef1;
@@ -180,7 +178,6 @@
 .hot-img {
     height: 250px;
     width: 200px;
-    /* padding-bottom: 60px; */
     margin-bottom: 60px;
 }
 
@@ -235,7 +232,6 @@
     padding: 0px 300px 80px 300px;
     display: flex;
     justify-content: space-around;
-    /* gap: 0px; */
 }
 
 .top01 {
@@ -270,9 +266,15 @@
 }
 
 .top02 img {
-    height: 210px;
+    height: 260px;
     width: 200px;
-    padding: 60px 0px 30px 25px;
+    padding: 40px 0px 25px 25px;
+}
+.pink{
+    margin-top: 25px;
+}
+.yellow-f{
+     margin-top: 0px;
 }
 
 /* get the latest deals  */
