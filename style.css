@@ -149,7 +149,8 @@
     gap: 150px;
     align-items: center;
 }
-.hot-content{
+
+.hot-content {
     max-width: 500px;
 }
 
@@ -171,10 +172,12 @@
 .off {
     color: #e55473;
 }
-.sign{
+
+.sign {
     padding: 10px 20px;
 }
-.hot-img{
+
+.hot-img {
     height: 250px;
     width: 200px;
     /* padding-bottom: 60px; */
@@ -182,48 +185,92 @@
 }
 
 /* Instagra */
-.instagram{
+.instagram {
     padding: 50px 150px 0px 150px;
 }
-.insta-content{
+
+.insta-content {
     padding: 25px 290px;
     width: auto;
 }
 
-.insta-pics{
+.insta-pics {
     display: flex;
     gap: 20px;
 }
-.insta-pics img{
+
+.insta-pics img {
     height: 300px;
     width: 250px;
 }
 
-.instapic01{
+.instapic01 {
     height: 400px;
     width: 400px;
 }
 
 /* get the latest deals  */
-.deals{
+.deals {
     padding: 50px 150px;
 }
-.deal-content{
+
+.deal-content {
     background-image: url('images/Rectangle 9.png');
     background-size: 100%;
     background-repeat: no-repeat;
     padding: 100px 100px;
 }
-.search{
+
+.search {
     text-align: center;
 }
-.search input{
+
+.search input {
     padding: 15px;
     width: 500px;
     border: 0px;
     border-radius: 5px;
 }
-.subs{
+
+.subs {
     padding: 19px 25px 16px 25px;
     margin-left: 5px;
 }
+
+/* Footer  */
+.shop {
+    background: #111010;
+    padding: 120px 150px;
+}
+
+.shop-content {
+    color: #FFFFFF;
+}
+
+.shop-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.ft-flower {
+    color: #e55473;
+}
+
+.shop-detail {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    padding: 0px 300px;
+    max-width: 500px;
+    color: rgba(255, 255, 255, 0.90);
+    font-weight: 400;
+}
+.rights {
+        text-align: center;
+        color: rgba(255, 255, 255, 0.40);
+        font-size: 16px;
+        font-weight: 400;
+    }
